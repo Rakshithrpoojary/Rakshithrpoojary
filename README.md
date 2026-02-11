@@ -72,5 +72,4 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=about.me&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshith-r-p-41b91020b)
